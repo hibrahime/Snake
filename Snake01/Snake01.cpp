@@ -26,6 +26,7 @@ bool yilanKendiniIsirdiMi(int **yilan);
 int skor;
 int puan = 0;
 int ZORLUK = 1;
+//deneme
 
 void ekranYenile() {
 	COORD coord;
